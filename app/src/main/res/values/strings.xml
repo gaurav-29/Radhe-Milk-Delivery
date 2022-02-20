@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Radhe Delivery</string>
+    <string name="login">Login</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="profile">Profile</string>
+    <string name="add_milk">Add Milk</string>
+    <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_message">Are you sure?</string>
+    <string name="dialog_title">Log Out</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="address">Address</string>
+    <string name="email_address">Email Address</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_birth_date">Enter Birth Date</string>
+    <string name="city">City</string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+    <string name="cid">CID</string>
+    <string name="date">Date :-</string>
+    <string name="morning">(Morning)</string>
+    <string name="milk_in_liters">Milk in Liters</string>
+    <string name="evening">(Evening)</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="rearrange">Rearrange</string>
+    <string name="morning1">Morning</string>
+    <string name="litres">Litres</string>
+    <string name="evening1">Evening</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="text">Text</string>
+
+</resources>
